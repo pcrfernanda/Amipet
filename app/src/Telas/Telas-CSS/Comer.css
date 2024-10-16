@@ -1,0 +1,18 @@
+
+.image-container {
+    width: fit-content;
+  }
+  
+  .capivara-cozinha {
+    width: 250px;
+    position: relative;
+    padding-bottom: 30%;
+  }
+  
+  .mesa {
+    position: absolute;
+    top: 45vh;
+    left: 30%;
+    width: 40%;
+  }
+  
